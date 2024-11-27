@@ -1,1 +1,1 @@
-Stechuhr für Linux Mint
+Stechuhr für Ubuntu
